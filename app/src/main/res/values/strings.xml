@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">TestingRough</string>
+
+    <string-array name="Vegetables">
+        <item>Vegetables</item>
+
+        <item>Spinach</item>
+        <item>Lettuce lollo  Rosso</item>
+        <item>Lettuce  marvel of four seasons</item>
+        <item>Kale</item>
+        <item>Mustard  greens</item>
+        <item>Bok  choy</item>
+        <item>Beet  green</item>
+        <item>Swiss  chard</item>
+        <item>Chienese cabbage</item>
+
+    </string-array>
+</resources>
